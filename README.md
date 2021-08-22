@@ -4,3 +4,4 @@
 
 - Strogonoff de Frango
 - Pavê
+- Torta de Repolho
