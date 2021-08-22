@@ -4,4 +4,5 @@
 
 - Strogonoff de Frango
 - Pavê
+- Peixe Assado
 
