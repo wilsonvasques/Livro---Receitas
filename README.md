@@ -5,4 +5,5 @@
 - Strogonoff de Frango
 - Pavê
 - Peixe Assado
+- Batata Frita
 
