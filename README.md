@@ -6,4 +6,5 @@
 - Pavê
 - Peixe Assado
 - Batata Frita
+- Vaca Atolada
 
